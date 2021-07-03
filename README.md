@@ -1,5 +1,5 @@
 # Terraform 101
-
+![Terraform 101](images/Terraform010-banner.png "Terraform 101")
 This document will explain [Terraform](https://www.terraform.io/) tool and its features on a high-level.
 
 ### **What is Iac?** 
